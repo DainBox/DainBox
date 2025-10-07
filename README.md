@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hello! I’m Dain, a software developer passionate about creating practical and well-structured solutions.
 
 <!--
 **DainBox/DainBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
